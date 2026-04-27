@@ -1,5 +1,7 @@
 # HR Analytics Dashboard (Excel Project)
 
+![Dashboard Preview](first dash.png)
+
 ## 📊 Project Overview
 In this project, I analyzed HR data using Excel, Power Query, Pivot Tables, and an interactive dashboard to identify key business insights related to salary structure and employee performance across different departments.
 
